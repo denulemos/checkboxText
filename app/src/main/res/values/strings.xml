@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkbox Calculator</string>
+    <string name="button">Calculate</string>
+    <string name="input_1">First value</string>
+    <string name="input_2">Second value</string>
+    <string name="sum_check">Sum</string>
+    <string name="sub_check">Subtract</string>
+    <string name="result_txt">The result will be shown here</string>
+</resources>
